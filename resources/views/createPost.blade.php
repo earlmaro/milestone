@@ -36,7 +36,7 @@
 
 <div class="jumbotron">
   <h1 class="display-4" style="color:#F40505"> Hello!</h1>
-  <p class="lead">Welcome to milestone.test, we have had <em style="color:red">  {{$registeredIp}}  </em> people new visitors on this application, milestone.test allows you to share your stories with others, you can post stories or read other peoples stories by <a href="/all-posts">clicking here</a> , Lets take it for a spin!! create a new post.</p>
+  <p class="lead">Welcome to milestone.test, we have had <em style="color:red">  {{$registeredIp}}  </em>   visitors on this application, milestone.test allows you to share your stories with others, you can post stories or read other peoples stories by <a href="/all-posts">clicking here</a> , Lets take it for a spin!! create a new post.</p>
  
   <hr class="my-4">
   <h3 class= "text-center" style="color:#60C236">Post a New Story Today!!</h3>
